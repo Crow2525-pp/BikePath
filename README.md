@@ -14,6 +14,7 @@ Issues:
 1. So... this data shows we have 7.63M rows of data. Some data is not consistent across all files.  So we might have incomplete files.  This is only one year too... Max speed doesn't look high enough at 15.92.  Average is 20.99 which is OK.   Speed looks OK - Average speed is 20.99213, but min is 2, Max is 15.92.  Why...  Need to split up months/dates
 2. Need to zoom in on months to better see the data
 3. Data needs cleaning up.  Some of the downloaded files aren't in zips or csvs.  They are missing an extension, which adds a layer of complexity.  Further, I can't add everything and then remove duplicates, because there might be genuine duplicate entries.
+4. The extract and removal tool needs work.  Because unzipping takes some time, the routine keeps finding files that are zipping in progress.  These files are then deleted after they're extracted.  Technically this doesn't matter, but it'll throw up some false positive erorrs.
 
 Control:
 Version 0.1 - 12/03/22 - Added commentary around problems with data. 
