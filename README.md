@@ -1,6 +1,10 @@
 # BikePath
 
-This is a hobbie project that I'm using my DataCamp skills in python to ETL into a dataframe and perform analysis on. 
+This is a hobbie project that I'm using my DataCamp skills in python to ETL into a dataframe and perform analysis on.
+
+Future State:
+How cool would it be to see a map of melbourne and see a blink every time a bike went past a counter?
+How many people are recorded at different areas and disappear from the next likely stop?  What are the possibilities for those people?  Stop at the shops?  Go an alterative or more dangerous/non-bike path route?
 
 Code: Python
 Start Date: Sep-21
