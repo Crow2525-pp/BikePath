@@ -1,6 +1,6 @@
 # BikePath
 
-This is a hobbie project that I'm using my DataCamp skills in python to ETL into a dataframe and perform analysis on.
+This is a hobbie project that I'm using my DataCamp skills in python to ETL a VicRoads bike dataset into a Pandas dataframe and perform analysis on.
 
 Future State:
 How cool would it be to see a map of melbourne and see a blink every time a bike went past a counter?
@@ -9,6 +9,9 @@ How many people are recorded at different areas and disappear from the next like
 Code: Python
 Start Date: Sep-21
 Re-Start Date: Mar-22
+
+Changelog:
+2/05/2022 - Amended the directories where items are stored.  Zip folder for zips; extract folder for extracted zips;  I also added the 2022 datafile.
 
 Issues:
 1. So... this data shows we have 7.63M rows of data. Some data is not consistent across all files.  So we might have incomplete files.  This is only one year too... Max speed doesn't look high enough at 15.92, min looks OK at 2.  Average is 20.99 which is OK.  Why...  Need to split up months/dates to look closer.  Can't have max less than average.
