@@ -20,4 +20,4 @@ Issues:
 Control:  
 Version 0.1  
 - 12/03/22 - Added commentary around problems with data.  
-- 02/05/22 - Amended the directories where items are stored.  Zip folder for zips; extract folder for extracted zips;  I also added the 2022 datafile.
+- 02/05/22 - Amended the directories where items are stored.  Zip folder for zips; extract folder for extracted zips;  I also added the 2022 url.  Also the extraction is working better now into they're own folders.  Next is cleaning up corrupt file extensions (e.g. filename.csv.123123 rather than filename.csv)
