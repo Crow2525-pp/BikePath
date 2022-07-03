@@ -19089,3 +19089,556 @@ data/extracted/Black Rock - Bicycle volume data 2021/IND_D5555_X32021_220210326.
 data/extracted/Black Rock - Bicycle volume data 2021/IND_D5555_X32021_220210327.csv
 data/extracted/Black Rock - Bicycle volume data 2021/IND_D5555_X32021_220210328.csv
 data/extracted/Black Rock - Bicycle volume data 2021/IND_D5555_X32021_220210329.csv
+data/extracted/2022-05-09_IND/IND_D208_X6411_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X6423_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X6592_SN0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X6596_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X6600_EW0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X7584_SN0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X7588_EW0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X7592_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X7596_EW0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X7604_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X8172_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X8176_WE0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X8180_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X8184_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X8188_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X8192_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X9077_E1_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X9077_W2_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X9079_EW0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X10223_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X10225_N1_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X10225_S2_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X10484_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X10486_N1_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X10486_S2_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X10488_N1_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X10488_S2_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X31602_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X31747_EW0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X32493_N1_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X32493_S2_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X32612_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X32614_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X32616_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X33179_NS0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X34215_N1_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X34215_S2_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X34216_N1_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X34216_S2_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X34217_E1_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X34217_W2_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X34271_S1_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X34314_N1_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X34314_S2_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X34315_EW0_20220509.csv
+data/extracted/2022-05-09_IND/IND_D208_X34556_EW0_20220509.csv
+data/extracted/2022-05-16_IND/IND_D208_X6411_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X6423_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X6592_SN0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X6596_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X6600_EW0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X7584_SN0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X7588_EW0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X7592_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X7596_EW0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X7604_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X8172_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X8176_WE0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X8180_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X8184_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X8188_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X8192_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X9077_E1_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X9077_W2_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X9079_EW0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X10223_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X10225_N1_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X10225_S2_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X10484_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X10486_N1_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X10486_S2_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X10488_N1_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X10488_S2_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X31602_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X31747_EW0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X32493_N1_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X32493_S2_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X32612_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X32614_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X32616_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X33179_NS0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X34215_N1_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X34215_S2_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X34217_E1_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X34217_W2_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X34271_S1_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X34314_N1_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X34314_S2_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X34315_EW0_20220516.csv
+data/extracted/2022-05-16_IND/IND_D208_X34556_EW0_20220516.csv
+data/extracted/2022-05-18_IND/IND_D208_X32615_NS0_20220518.csv
+data/extracted/2022-05-19_IND/IND_D208_X9999_S2_20220518.csv
+data/extracted/2022-05-23_IND/IND_D208_X6411_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X6423_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X6592_SN0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X6596_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X6600_EW0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X7584_SN0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X7588_EW0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X7592_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X7596_EW0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X7604_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X8172_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X8176_WE0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X8180_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X8184_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X8188_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X8192_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X9077_E1_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X9077_W2_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X9079_EW0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X9999_S2_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X10223_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X10225_N1_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X10225_S2_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X10484_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X10486_N1_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X10486_S2_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X10488_N1_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X10488_S2_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X31602_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X31747_EW0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X32493_N1_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X32493_S2_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X32612_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X32614_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X32615_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X32616_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X33179_NS0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X34215_N1_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X34215_S2_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X34217_E1_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X34217_W2_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X34271_S1_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X34314_N1_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X34314_S2_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X34315_EW0_20220523.csv
+data/extracted/2022-05-23_IND/IND_D208_X34556_EW0_20220523.csv
+data/extracted/2022-05-24_IND/IND_D208_X40004_E1_20220523.csv
+data/extracted/2022-05-24_IND/IND_D208_X40004_W2_20220523.csv
+data/extracted/2022-05-24_IND/IND_D208_X40005_E1_20220523.csv
+data/extracted/2022-05-24_IND/IND_D208_X40005_W2_20220523.csv
+data/extracted/2022-05-24_IND/IND_D208_X40430_S2_20220523.csv
+data/extracted/2022-05-30_IND/IND_D208_X6411_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X6423_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X6592_SN0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X6596_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X6600_EW0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X7584_SN0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X7588_EW0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X7592_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X7596_EW0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X7604_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X8172_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X8176_WE0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X8180_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X8184_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X8188_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X8192_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X9077_E1_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X9077_W2_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X9079_EW0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X9999_S2_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X10223_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X10225_N1_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X10225_S2_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X10484_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X10486_N1_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X10486_S2_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X10488_N1_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X10488_S2_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X31602_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X31747_EW0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X32493_N1_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X32493_S2_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X32612_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X32614_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X32615_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X32616_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X33179_NS0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X34215_N1_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X34215_S2_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X34217_E1_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X34217_W2_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X34271_S1_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X34314_N1_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X34314_S2_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X34315_EW0_20220530.csv
+data/extracted/2022-05-30_IND/IND_D208_X34556_EW0_20220530.csv
+data/extracted/2022-05-31_IND/IND_D208_X40004_E1_20220530.csv
+data/extracted/2022-05-31_IND/IND_D208_X40004_W2_20220530.csv
+data/extracted/2022-05-31_IND/IND_D208_X40005_E1_20220525.csv
+data/extracted/2022-05-31_IND/IND_D208_X40005_W2_20220530.csv
+data/extracted/2022-06-06_IND/IND_D208_X6411_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X6423_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X6592_SN0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X6596_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X6600_EW0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X7584_SN0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X7588_EW0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X7592_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X7596_EW0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X7604_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X8172_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X8176_WE0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X8180_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X8184_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X8188_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X8192_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X9077_E1_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X9077_W2_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X9079_EW0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X9999_S2_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X10223_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X10225_N1_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X10225_S2_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X10484_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X10486_N1_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X10486_S2_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X10488_N1_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X10488_S2_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X31602_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X31747_EW0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X32493_N1_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X32493_S2_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X32612_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X32614_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X32615_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X32616_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X33179_NS0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X34215_N1_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X34215_S2_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X34217_E1_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X34217_W2_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X34271_S1_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X34315_EW0_20220606.csv
+data/extracted/2022-06-06_IND/IND_D208_X34556_EW0_20220606.csv
+data/extracted/2022-06-07_IND/IND_D208_X34314_N1_20220607.csv
+data/extracted/2022-06-07_IND/IND_D208_X34314_S2_20220607.csv
+data/extracted/2022-06-13_IND/IND_D208_X6411_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X6423_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X6592_SN0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X6596_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X6600_EW0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X7584_SN0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X7588_EW0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X7592_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X7596_EW0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X7604_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X8172_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X8176_WE0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X8180_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X8184_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X8188_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X8192_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X9077_E1_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X9077_W2_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X9079_EW0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X9999_S2_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X10223_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X10225_N1_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X10225_S2_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X10484_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X10486_N1_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X10486_S2_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X10488_N1_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X10488_S2_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X31602_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X31747_EW0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X32493_N1_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X32493_S2_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X32612_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X32614_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X32615_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X32616_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X33179_NS0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X34215_N1_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X34215_S2_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X34217_E1_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X34217_W2_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X34271_S1_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X34315_EW0_20220613.csv
+data/extracted/2022-06-13_IND/IND_D208_X34556_EW0_20220613.csv
+data/extracted/2022-06-14_IND/IND_D208_X34314_N1_20220614.csv
+data/extracted/2022-06-14_IND/IND_D208_X34314_S2_20220614.csv
+data/extracted/2022-06-15_IND/IND_D208_X40004_E1_20220613.csv
+data/extracted/2022-06-15_IND/IND_D208_X40004_W2_20220613.csv
+data/extracted/2022-06-15_IND/IND_D208_X40005_W2_20220613.csv
+data/extracted/2022-06-20_IND/IND_D208_X6411_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X6423_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X6592_SN0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X6596_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X6600_EW0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X7584_SN0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X7588_EW0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X7592_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X7596_EW0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X7604_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X8172_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X8176_WE0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X8180_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X8184_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X8188_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X8192_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X9077_E1_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X9077_W2_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X9079_EW0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X9999_S2_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X10223_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X10225_N1_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X10225_S2_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X10484_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X10486_N1_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X10486_S2_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X10488_N1_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X10488_S2_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X31602_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X31747_EW0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X32493_N1_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X32493_S2_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X32612_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X32614_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X32615_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X32616_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X33179_NS0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X34215_N1_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X34215_S2_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X34217_E1_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X34217_W2_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X34271_S1_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X34315_EW0_20220620.csv
+data/extracted/2022-06-20_IND/IND_D208_X34556_EW0_20220620.csv
+data/extracted/2022-06-21_IND/IND_D208_X34314_N1_20220621.csv
+data/extracted/2022-06-21_IND/IND_D208_X34314_S2_20220621.csv
+data/extracted/2022-06-22_IND/IND_D208_X40004_E1_20220620.csv
+data/extracted/2022-06-22_IND/IND_D208_X40004_W2_20220620.csv
+data/extracted/2022-06-22_IND/IND_D208_X40005_W2_20220620.csv
+data/extracted/2022-06-27_IND/IND_D208_X6411_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X6423_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X6592_SN0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X6596_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X6600_EW0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X7584_SN0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X7588_EW0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X7592_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X7596_EW0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X7604_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X8172_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X8176_WE0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X8180_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X8184_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X8188_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X8192_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X9077_E1_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X9077_W2_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X9079_EW0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X9999_S2_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X10223_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X10225_N1_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X10225_S2_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X10484_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X10486_N1_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X10486_S2_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X10488_N1_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X10488_S2_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X31602_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X31747_EW0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X32493_N1_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X32493_S2_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X32612_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X32614_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X32615_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X32616_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X33179_NS0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X34215_N1_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X34215_S2_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X34217_E1_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X34217_W2_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X34271_S1_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X34315_EW0_20220627.csv
+data/extracted/2022-06-27_IND/IND_D208_X34556_EW0_20220627.csv
+data/extracted/2022-06-28_IND/IND_D208_X8196_NS0_20220627.csv
+data/extracted/2022-06-28_IND/IND_D208_X34314_N1_20220628.csv
+data/extracted/2022-06-28_IND/IND_D208_X34314_S2_20220628.csv
+data/extracted/2022-06-29_IND/IND_D208_X34216_N1_20220628.csv
+data/extracted/2022-06-29_IND/IND_D208_X34216_S2_20220628.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220112.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220113.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220114.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220115.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220116.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220117.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220118.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220119.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220120.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220121.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220122.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220123.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220124.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220125.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220126.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220127.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220128.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220129.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220130.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220131.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220201.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220202.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220203.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220204.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220205.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220206.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220207.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220208.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220209.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220210.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220211.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220212.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220213.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220214.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220215.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220216.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220217.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220218.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220219.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220220.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220221.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220222.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220223.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220224.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220225.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220226.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220227.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220228.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220301.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220302.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220303.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220304.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220305.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220306.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220307.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220308.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220309.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220310.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220311.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220312.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220313.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220314.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220315.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220316.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220317.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220318.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220319.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220320.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220321.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220322.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220323.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220324.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220325.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220326.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220328.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220329.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220330.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220331.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220401.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220402.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220403.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220404.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220405.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220406.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220407.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220408.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220409.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220410.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220411.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220412.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220413.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220414.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220415.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220416.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220417.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220418.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220419.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220420.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220421.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220422.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220423.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220426.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220427.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220428.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220429.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220430.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220501.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220502.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220503.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220504.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220505.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220506.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220507.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220508.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220509.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220510.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220511.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220512.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220513.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220514.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220515.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220516.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220517.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220518.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220519.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220520.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220521.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220522.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220523.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220524.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220525.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220526.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220527.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220528.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220529.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220530.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220531.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220601.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220602.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220603.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220604.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220605.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220606.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220607.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220608.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220609.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220610.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220611.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220612.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220613.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220614.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220615.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220616.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220617.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220618.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220619.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220620.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220621.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220622.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220623.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220624.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220625.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220626.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220627.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220628.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220629.csv
+data/extracted/Black Rock - Bicycle volume data 2020/IND_D5555_X32021_20220630.csv
