@@ -3,3 +3,5 @@
 data/extracted/*
 data/zip/*
 *.csv#
+data/export/database.csv
+data/VicRoadsHeader.csv
